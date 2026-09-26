@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mamacheck-healthcare.vercel.app/sitemap.xml
